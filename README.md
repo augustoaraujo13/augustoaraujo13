@@ -1,16 +1,13 @@
-### Hi there 👋
+My name is Augusto Araújo 👱🏼
 
-<!--
-**augustoaraujo13/augustoaraujo13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a beginner Java and Python programmer, I've been in programming since 2019 and improving my knowledge 💻
 
-Here are some ideas to get you started:
+### "Failure is just an opportunity to start more intelligently ...." - Henry Ford 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🏡 Brazil, Rio de Janeiro, Japeri
+- 📚 Information Technology Student
+- 📸 Amateur photographer (Hobby)
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/augustoaraujo13/)](https://www.linkedin.com/in/augustoaraujo13/)
+
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-violet?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/augustoaraujo4520/?hl=pt-br)](https://www.instagram.com/augustoaraujo4520/?hl=pt-br)
