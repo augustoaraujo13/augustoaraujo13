@@ -8,6 +8,4 @@ I'm a beginner back-end programmer in Java and Python, I've been working in prog
 - 📚 Information Technology Student
 - 📸 Amateur photographer (Hobby)
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/augustoaraujo13/)](https://www.linkedin.com/in/augustoaraujo13/)
-
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-violet?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/augustoaraujo4520/?hl=pt-br)](https://www.instagram.com/augustoaraujo4520/?hl=pt-br)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/augustoaraujo13/)](https://www.linkedin.com/in/augustoaraujo13/)[![Instagram Badge](https://img.shields.io/badge/-Instagram-violet?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/augustoaraujo4520/?hl=pt-br)](https://www.instagram.com/augustoaraujo4520/?hl=pt-br)
