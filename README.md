@@ -4,7 +4,7 @@ I'm a beginner back-end programmer in Java and Python, I've been working in prog
 
 ### "Failure is just an opportunity to start more intelligently ...." 
 
-- Henry Ford 
+Henry Ford 
 
 - 🏡 Brazil, Rio de Janeiro, Japeri
 - 📚 Information Technology Student
