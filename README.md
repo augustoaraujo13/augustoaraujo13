@@ -1,6 +1,6 @@
 My name is Augusto Araújo 👱🏼
 
-I'm a beginner back-end programmer in Java and Python, I've been working with programming since 2020 and improving my knowledge 💻
+I'm a beginner back-end programmer in Java and Python, I've been studying programming since 2020 and improving my knowledge 💻
 
 ### "Failure is just an opportunity to start more intelligently ...." 
 
