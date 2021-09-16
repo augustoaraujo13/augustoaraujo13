@@ -8,8 +8,8 @@ Olá sou Augusto Araújo sou desenvolvedor nas linguagens Java e Python 👱🏼
   
   ##
   <div style="display: inline_block"><br>
-  <img align="center" alt="python" height="30" width="40" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png">
-  <img align="center" alt="java" height="30" width="40" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/java_original_logo_icon_146458.png">
+  <img align="center" alt="python" height="30" width="40" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+  <img align="center" alt="java" height="30" width="40" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
   </div>
   
   ##
