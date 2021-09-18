@@ -15,8 +15,7 @@ Olá sou Augusto Araújo sou desenvolvedor nas linguagens Java e Python 👱🏼
   ##
   
   <div>
-  <a href="https://www.linkedin.com/in/augustoaraujo13/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="https://pt.stackoverflow.com/users/258077/augusto-araujo" target="_blank"><img src="https://aleen42.github.io/badges/src/stackoverflow.svg" target="_blank"></a>  
-    <a href="augustoaraujofoto@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/augustoaraujo13/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> <a href="https://pt.stackoverflow.com/users/258077/augusto-araujo" target="_blank"><img src="https://aleen42.github.io/badges/src/stackoverflow.svg" target="_blank"></a>  
+    <a href="augustoaraujofoto@gmail.com" target="_blank">
   </div>
   
