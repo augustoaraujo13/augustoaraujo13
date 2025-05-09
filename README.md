@@ -27,6 +27,15 @@ Atualmente, estou focado no aprendizado de **Java, Python e JavaScript**, além 
 
 ---
 
+### 🌐 Onde me encontrar
+
+* 💼 LinkedIn: [linkedin.com/in/augustoaraujo13](https://www.linkedin.com/in/augustoaraujo13/)
+* 💻 GitHub: [github.com/augustoaraujo13](https://github.com/augustoaraujo13)
+* 📸 Instagram: [@euaugustoaraujo](https://www.instagram.com/euaugustoaraujo)
+
+> *"O sucesso é consequência do esforço contínuo."* 🚀
+
+---
 ### 📈 GitHub Stats
 
 <p>
@@ -44,14 +53,3 @@ Atualmente, estou focado no aprendizado de **Java, Python e JavaScript**, além 
 
 <br/><br/><br/><br/><br/><br/><br/><br/>
 
----
-
-### 🌐 Onde me encontrar
-
-* 💼 LinkedIn: [linkedin.com/in/augustoaraujo13](https://www.linkedin.com/in/augustoaraujo13/)
-* 💻 GitHub: [github.com/augustoaraujo13](https://github.com/augustoaraujo13)
-* 📸 Instagram: [@euaugustoaraujo](https://www.instagram.com/euaugustoaraujo)
-
-> *"O sucesso é consequência do esforço contínuo."* 🚀
-
----
