@@ -1,9 +1,9 @@
-# 👨‍💻 Augusto Araújo
+# Augusto Araújo 👨‍💻
 
 **`Estudante de Análise e Desenvolvimento de Sistemas | Apaixonado por Tecnologia e Inovação`**
 
-Olá! Me chamo **Augusto Araújo**, sou estudante de **Análise e Desenvolvimento de Sistemas** e apaixonado por tudo que envolve **tecnologia, programação e criatividade**. Estou sempre em busca de novos conhecimentos e desafios que me façam evoluir como desenvolvedor e como pessoa.
-
+🎯 Estudante de Análise e Desenvolvimento de Sistemas, apaixonado por tecnologia, programação e inovação.
+🚀 Em constante evolução, focado em desenvolver habilidades em Java, Python, JavaScript e desenvolvimento web.
 Atualmente, estou focado no aprendizado de **Java, Python e JavaScript**, além de estudar conceitos fundamentais de **estruturas de dados, orientação a objetos, lógica de programação e desenvolvimento web**.
 
 ---
@@ -35,21 +35,8 @@ Atualmente, estou focado no aprendizado de **Java, Python e JavaScript**, além 
 
 > *"O sucesso é consequência do esforço contínuo."* 🚀
 
----
-### 📈 GitHub Stats
-
-<p>
-  <img 
-    align="left" 
-    height="200" 
-    src="https://github-readme-stats.vercel.app/api?username=augustoaraujo13&show_icons=true&theme=tokyonight&locale=pt-br" 
-  />
-  <img 
-    align="left" 
-    height="200" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=augustoaraujo13&layout=compact&theme=tokyonight" 
-  />
-</p>
-
-<br/><br/><br/><br/><br/><br/><br/><br/>
-
+<div>
+  <a href="https://github.com/augustoaraujo13">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=augustoaraujo13&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=augustoaraujo13&layout=compact&langs_count=7&theme=radical"/>
+</div>
