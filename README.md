@@ -35,8 +35,11 @@ Atualmente, estou focado no aprendizado de **Java, Python e JavaScript**, além 
 
 > *"O sucesso é consequência do esforço contínuo."* 🚀
 
+### 📊 Estatísticas
+
 <div>
-  <a href="https://github.com/augustoaraujo13">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=augustoaraujo13&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=augustoaraujo13&layout=compact&langs_count=7&theme=radical"/>
+   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=augustoaraujo13&show_icons=true&theme=radical&include_all_commits=true&locale=pt-br" 
+  />
+<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=augustoaraujo13&theme=radical&layout=compact&custom_title=Tecnologias&langs_count=9" 
+  />
 </div>
